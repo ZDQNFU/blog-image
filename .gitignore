@@ -1,0 +1,22 @@
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.db
+
+# Node
+node_modules/
+.npm-cache/
+dist/
+
+# Environment
+.env
+**/config/settings.py
+
